@@ -1,0 +1,106 @@
+.top_session{
+    background-color:#F9F9F9;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    margin: 0%;
+    
+
+}
+.let{
+    background-color: white;
+    margin-bottom: 0%;
+    margin-top: 0%;
+}
+.top_session1{
+  
+  width: 30%;
+    height: 100%; 
+    position: relative; 
+    
+}
+
+h3{
+    margin-left:30px  ;
+}
+  img{
+    width: 100%; 
+    height:100%
+  }  
+.top_session2{
+    background-color: rgb(232, 223, 223);
+    width: 70%;
+    height: 100%;
+}
+
+.pa1{
+    width: 60%;
+    height: 20%;
+    padding: 5px;
+    align-content:left;
+    font-size: 20px;
+    font-family:"lato";
+    margin-top: 80px;
+    padding-left:40px ;
+}
+.form{
+    display: flex;
+    background-color: white;
+    width: 100%;
+        height: 25%;
+}
+
+.form1{
+    margin:30px;
+}
+
+.bot{
+    margin-left: 30px;
+    width:100%;
+        height: 50%;
+        font-family: "lato";
+    
+}
+button{
+            background-color:#596D48;
+            color: white;
+            font-size: 10px;
+            font-family: "lato"; 
+            padding: 5px,15px;
+            width: 150px;
+                height:30px;
+                border-radius:5px ;
+                margin-top: 10px;
+
+        }
+.text{
+    color:#596D48;
+
+}
+.text2{
+    font-family: "lato";
+}
+label{
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-size: 14px;
+    }
+.Top_session_img2{
+    width: 80px;
+    height: 80px;
+    position:absolute;
+    bottom:400px;
+    left:150px ;
+}
+.Top_session_img3{
+    width: 150px;
+    height: 60px;
+    
+    position: absolute;
+    bottom: 450px;
+    left: 230px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+    color: #F9F9F9;
+}
+
+
